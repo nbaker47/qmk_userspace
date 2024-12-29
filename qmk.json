@@ -1,6 +1,7 @@
 {
-    "userspace_version": "1.0",
+    "userspace_version": "1.1",
     "build_targets": [
-        ["bastardkb/charybdis/3x5", "mouse-keys"]
+        ["bastardkb/charybdis/3x5", "vendor"],
+        ["bastardkb/charybdis/3x5", "mouse"]
     ]
 }
